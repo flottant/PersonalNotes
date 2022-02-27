@@ -1,1 +1,3 @@
-# PersonalNotes
+# StudyRouteOnDigitalMediaTech
+
+参考了浙江大学的数字媒体技术的培养计划。来放点笔记之类的。
